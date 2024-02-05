@@ -3,7 +3,7 @@
 <p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200 width="200"/></p>
 
 I'm a `React Developer` with 2 years of hands-on experience in crafting web applications.<br/>
-Currently, I'm honing my skills in the `MERN stack`, aiming to become a great `Fullstack Developer(Frontend Heavy)`.<br/>
+Currently, I'm honing my skills in the `MERN stack`, aiming to become a skilled `Fullstack Developer(Frontend Heavy)`.<br/>
 When I'm not immersed in the world of code, you'll find me embracing my love for `gaming`.
 
 
